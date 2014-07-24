@@ -1,4 +1,5 @@
 CodeBook for GetData project
+=========================================
 
 This dataset originally came from the UCI Human Activity Recognition dataset.
 
