@@ -30,11 +30,6 @@ test.subset$activity.id <- test.labels$activity.id
 # Subject Id
 train.subset$subject.id <- train.subject$subject.id
 test.subset$subject.id <- test.subject$subject.id
-# Origin
-train.subset$origin <- "train"
-test.subset$origin <- "test"
-
-
 
 # COMBINE THE DATASETS
 data.sets <- rbind(train.subset,test.subset)
