@@ -17,3 +17,16 @@ The dataset includes the following files:
 - 'train/X_train.txt': Training set.
 
 - 'train/y_train.txt': Training labels.
+
+
+WHAT I MAKE IS THAT:
+
+load the features, data set
+load train data set
+load the test data
+Create new variable activity.id and subject.id
+Extracts the measurements on the mean and standard deviation for each measurements
+COMBINE THE DATASETS (train and test)
+Read the activity_labels.txt and merge it with the combine data sets
+Use the librart reshspe2 and create melty data
+Create the tidy data with the cast function
